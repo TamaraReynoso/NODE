@@ -12,7 +12,7 @@ email:{
     type:String,
     unique:true
 },
-password:{
+password: {
     type:String,
     select:false
 },
